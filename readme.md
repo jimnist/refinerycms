@@ -1,4 +1,4 @@
-### mods for this fork enable integration with spree 2.0
+### mods on this fork enable integration with spree 2.0
 bumping the jquery-rails to 3.0 and adding jquery-ui-rails
 
 # Refinery CMS
