@@ -1,3 +1,6 @@
+### mods for this fork enable integration with spree 2.0
+bumping the jquery-rails to 3.0 and adding jquery-ui-rails
+
 # Refinery CMS
 
 __An open source Ruby on Rails content management system for Rails 3.__
