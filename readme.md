@@ -1,5 +1,6 @@
 ### mods on this fork enable integration with spree 2.0
-bumping the jquery-rails to 3.0 and adding jquery-ui-rails
+* bumping the jquery-rails to 3.0 and adding jquery-ui-rails
+* removing refinerycms-authentication as a dependency for the gem so that it's not included in the bundle
 
 # Refinery CMS
 
